@@ -19,11 +19,11 @@ The project is organized as follows:
 Step 1: Clone the Repository
 Step2:Install Dependencies
 - `pip install -r requirements.txt`
-
-step3:Run main.py
+step3:Create a Data  Folder and store the ecommerceDataset.csv file
+step4:Run main.py
 - `python main.py`
 
-step3:Run the FastAPI App
+step5:Run the FastAPI App
  -`uvicorn app:app --reload`
 
  ## Word cloud for each categorey
