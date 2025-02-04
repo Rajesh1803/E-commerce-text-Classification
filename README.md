@@ -20,6 +20,7 @@ Step 1: Clone the Repository
 Step2:Install Dependencies
 - `pip install -r requirements.txt`
 step3: Create a Data  Folder and store the ecommerceDataset.csv file
+- `Data file`
 step4:Run main.py
 - `python main.py`
 
