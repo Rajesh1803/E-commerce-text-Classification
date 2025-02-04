@@ -17,6 +17,7 @@ The project is organized as follows:
 
 ## Setup
 Step 1: Clone the Repository
+
 Step2:Install Dependencies
 - `pip install -r requirements.txt`
   
